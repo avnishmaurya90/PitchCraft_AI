@@ -128,7 +128,7 @@ ${tone}
         headers: {
           Authorization: `Bearer ${process.env.OPENROUTER_API_KEY}`,
           "Content-Type": "application/json",
-          "Referer": "https://pitch-craft-ai-5xqd.vercel.app/",
+          "Referer": "https://pitch-craft-ai-blue.vercel.app/",
           "X-Title": "PitchCraft AI",
         },
         body: JSON.stringify({
